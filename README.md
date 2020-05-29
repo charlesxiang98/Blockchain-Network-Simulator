@@ -3,4 +3,4 @@ This is a simple Blockchain Network Simulator. The creators are Jian Xiang, Fang
 
 I still try to make the simulator more powerful and adaptive to the real world. Keep updating.
 
-Jian Xiang Student of Rutgers University
+Jian Xiang Graduate Student in Rutgers University
